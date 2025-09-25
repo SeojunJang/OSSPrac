@@ -8,6 +8,6 @@
 
 
 ## Prac5 실습
-- fetch & merge
-- A
-- B
+fetch & merge  
+A  
+B
