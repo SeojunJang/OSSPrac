@@ -1,5 +1,4 @@
-print('hello world')  
-name='gdhong'  
-print(f'I\'m GD Hong!')  
-programming_language='Python'  
-print('Most used language is {0}'.format(programming_language))
+name = input("이름을 입력하세요: ")
+number = input("학번을 입력하세요: ")
+
+print(f"\n<출력>\n이름: {name}\n학번: {number}")
